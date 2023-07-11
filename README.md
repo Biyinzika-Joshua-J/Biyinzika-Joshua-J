@@ -36,9 +36,9 @@ I'm a computer scientist who writes captivating articles at [soarwithcode.com](h
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyinzika-joshua-j&show_icons=true&theme=gruvbox)
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyinzika-joshua-j&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=biyinzika-joshua-j&theme=gruvbox&border_radius=4.5) -->
 
 #
 
