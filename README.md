@@ -2,7 +2,7 @@
 
 **`Multifaceted Computer Scientist (Developer/Blogger/Chess fanatic)`**
 
-I'm a computer scientist who writes captivating articles at [soarwithcode.com](https://soarwithcode.com). As a frontend engineer, I create visually stunning websites and apps using magical React code. When I'm not in the digital world, you'll find me strategizing on the chessboard, aiming for victory with every move. My unwavering dedication lies in continuously exploring the boundless frontiers of the potential within me.
+I'm a frontend developer passionate about crafting exceptional user interfaces with Next.js and React.js. As a computer science student, I share insights on diverse computer science topics on my blog, [soarwithcode.com](https://soarwithcode.com). The sheer delight of turning ideas into tangible applications fuels my love for this field. Armed with just my keyboard, laptop, and technical knowledge, I'm continually amazed by the global impact I can make – a driving force that keeps me moving forward.
 
 ---
 
