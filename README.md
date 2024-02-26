@@ -2,7 +2,7 @@
 
 **`Multifaceted Computer Scientist (Developer/Blogger/Chess fanatic)`**
 
-I'm a frontend developer passionate about crafting exceptional user interfaces with Next.js and React.js. As a computer science student, I share insights on diverse computer science topics on my blog, [soarwithcode.com](https://soarwithcode.com). The sheer delight of turning ideas into tangible applications fuels my love for this field. Armed with just my keyboard, laptop, and technical knowledge, I'm continually amazed by the global impact I can make – a driving force that keeps me moving forward.
+I'm a frontend developer passionate about crafting exceptional user interfaces with Next.js and React.js. I also write about tech on Linkedin, X and Medium.
 
 ---
 
