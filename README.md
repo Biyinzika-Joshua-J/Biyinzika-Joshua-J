@@ -1,8 +1,8 @@
-# 🏄‍♂️ Joshua Biyinzika
+# 🏄‍♂️ Frontend developer
 
 **`Multifaceted Computer Scientist (Developer/Blogger/Chess fanatic)`**
 
-I'm a frontend developer passionate about crafting exceptional user interfaces with Next.js and React.js. I also write about tech on Linkedin, X and Medium.
+A frontend developer with experience in react, next js and typescript. I am an advocate for TDD with react testing library.
 
 ---
 
@@ -30,7 +30,7 @@ I'm a frontend developer passionate about crafting exceptional user interfaces w
 
 | Blog | Sorting algorithms | Movilla|
 | --------- | --------- | --------- |
-| [![Blog](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/blog.png)](https://soarwithcode.com) | [![Sorting algorithms](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/sorter.png)](cs-sorting-algorithms-visualizer.netlify.app) | [![Movilla](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/movilla.png)](https://movilla.netlify.app/) |
+| [![Blog](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/blog.png)](https://medium.com/@joshuabiyinzika22) | [![Sorting algorithms](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/sorter.png)](cs-sorting-algorithms-visualizer.netlify.app) | [![Movilla](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/movilla.png)](https://movilla.netlify.app/) |
 
 #
 
@@ -50,5 +50,5 @@ Throughout the remainder of 2020 and early 2021, I found myself trapped in the v
 
 In 2022, I enrolled in the esteemed BSc in Computer Science program at the University of London, further fueling my passion for learning. Concurrently, I launched my blog, where I document and share my profound insights and discoveries along this transformative journey. Reflecting upon my path, I can only perceive it as a masterpiece, showcasing the resilience and unwavering spirit that has driven me forward.
 
-[Portfolio]: https://joshuajb.netlify.app
-[Blog]: https://soarwithcode.com
+[Portfolio]: https://josh-codes.dev
+[Blog]: https://medium.com/@joshuabiyinzika22
