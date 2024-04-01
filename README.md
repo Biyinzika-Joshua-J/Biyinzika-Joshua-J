@@ -42,13 +42,7 @@ A frontend developer with experience in react, next js and typescript. I am an a
 
 #
 
-<details>
- <summary><h3>👨‍💻 Joshua's Coding Journey</h3></summary>
-I embarked on my coding journey in March 2020, amidst the global pandemic that kept us confined at home. Initially, I delved into C programming, which proved to be challenging and led me to take a break for three months. However, an undeniable urge kept pushing me forward, urging me to answer its call. I returned to coding and ventured into Python and Django, building small applications along the way.
 
-Throughout the remainder of 2020 and early 2021, I found myself trapped in the vortex of tutorials, yearning for a breakthrough. It wasn't until I secured my first freelance project in early 2021 that I was compelled to rely on creative problem-solving skills. This experience acted as a catalyst, liberating me from the clutches of tutorial hell after a mere five months.
-
-In 2022, I enrolled in the esteemed BSc in Computer Science program at the University of London, further fueling my passion for learning. Concurrently, I launched my blog, where I document and share my profound insights and discoveries along this transformative journey. Reflecting upon my path, I can only perceive it as a masterpiece, showcasing the resilience and unwavering spirit that has driven me forward.
 
 [Portfolio]: https://josh-codes.dev
 [Blog]: https://medium.com/@joshuabiyinzika22
