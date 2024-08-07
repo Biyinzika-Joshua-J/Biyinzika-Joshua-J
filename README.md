@@ -1,8 +1,8 @@
-# 🏄‍♂️ Frontend developer
+# Software engineer
 
 **`Multifaceted Computer Scientist (Developer/Blogger/Chess fanatic)`**
 
-A frontend developer with experience in react, next js and typescript. I am an advocate for TDD with react testing library.
+I'm a software engineer shipping startups like a madman. Every project is a small bet, you never know what hits. I write about my journey and share my learnings on X and LinkedIn. My tools of trade are React, Next.js and TypeScript for the frontend, then Python and Django for the backend. Database of choice is PostgreSQL. For tests, Vitest is the tool.
 
 ---
 
