@@ -24,23 +24,5 @@ Hey, I'm Joshua, a software engineer with 4 years of experience building and shi
 
 #
 
-### 🛠 My Projects
-
-| Blog | Sorting algorithms | Movilla|
-| --------- | --------- | --------- |
-| [![Blog](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/blog.png)](https://medium.com/@joshuabiyinzika22) | [![Sorting algorithms](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/sorter.png)](cs-sorting-algorithms-visualizer.netlify.app) | [![Movilla](https://github.com/Biyinzika-Joshua-J/projects-media/blob/master/movilla.png)](https://movilla.netlify.app/) |
-
-#
-
-### 📊 Stats
-
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyinzika-joshua-j&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=biyinzika-joshua-j&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-
-
 [Portfolio]: https://josh-codes.dev
-[Blog]: https://medium.com/@joshuabiyinzika22
+
