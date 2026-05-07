@@ -1,6 +1,6 @@
 # Software engineer
 
-I'm a software engineer shipping startups like a madman. Every project is a small bet, you never know what hits. I write about my journey and share my learnings on X and LinkedIn. My tools of trade are React, Next.js and TypeScript for the frontend, then Python and Django for the backend. Database of choice is PostgreSQL. For tests, Vitest is the tool.
+Hey, I'm Joshua, a software engineer with 4 years of experience building and shipping products across web platforms, developer tooling, and backend systems. I care about clean architecture and fast execution. I'm currently building Posiboo and I enjoy working low level too, especially with compilers. I'm comfortable with TypeScript, Python, and JavaScript, and familiar with C++, C and Rust. I've built SaaS products, APIs, internal tools, and customer-facing systems with an eye on performance, maintainability, and real business outcomes.
 
 ---
 
